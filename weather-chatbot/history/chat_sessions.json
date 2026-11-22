@@ -1,0 +1,114 @@
+[
+  {
+    "id": "35aba2c2-3158-4168-80db-ee2fb5178708",
+    "judul": "Besok hujan nggak di Surabaya?",
+    "dibuat_pada": "2026-10-28T09:00:17",
+    "last_location": "Kota Palangkaraya (Pahandut)",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Besok hujan nggak di Surabaya?"
+      },
+      {
+        "role": "assistant",
+        "content": "<p class=\"wx-intro\">Wah, buat besok di Surabaya sepertinya bakal cerah banget nih, tapi tetep sedia payung buat jaga-jaga ya!</p><div class=\"wx-card\"><div class=\"wx-hero wx-default\"><div><div class=\"wx-loc\">📍 Kota Surabaya (Karang Pilang)</div><div class=\"wx-cond\">Prakiraan Cuaca</div></div></div><div class=\"wx-days\"><div class=\"wx-day wx-sunny\"><div class=\"wx-day-name\">Kamis, 29 Okt</div><div class=\"wx-day-emoji\">☀️</div><div class=\"wx-day-cond\">Cerah</div><div class=\"wx-day-temp\">24° – 36°</div><div class=\"wx-day-rain\">🌧️ Ada kemungkinan hujan</div></div></div><div class=\"wx-foot\"><a href=\"https://www.bmkg.go.id\" target=\"_blank\">🔗 Sumber: BMKG</a></div></div>"
+      },
+      {
+        "role": "user",
+        "content": "cuaca kalimantan selatan hari ini"
+      },
+      {
+        "role": "assistant",
+        "content": "Ada beberapa daerah yang cocok dengan **Kalimantan Selatan**. Maksud kamu yang mana?\n\n- Kab. Balangan\n- Kab. Banjar\n- Kab. Barito Kuala\n- Kab. Hulu Sungai Selatan\n- Kab. Hulu Sungai Tengah\n- Kab. Hulu Sungai Utara\n- Kab. Kotabaru\n- Kab. Tabalong\n- Kab. Tanah Bumbu\n- Kab. Tanah Laut\n- Kab. Tapin\n- Kota Banjarbaru\n- Kota Banjarmasin"
+      },
+      {
+        "role": "user",
+        "content": "banjarbaru"
+      },
+      {
+        "role": "assistant",
+        "content": "<p class=\"wx-intro\">Wah, buat kamu yang lagi di Kalimantan Selatan, sepertinya kondisi udara hari ini agak sedikit berkabut ya.</p><div class=\"wx-card\"><div class=\"wx-hero wx-cloudy\"><div><div class=\"wx-loc\">📍 Kota Banjarbaru (Landasan Ulin Timur)</div><div class=\"wx-cond\">Udara Kabur</div></div><div class=\"wx-temp\">🌫️ 29°C</div></div><div class=\"wx-grid\"><div class=\"wx-metric wx-m-hum\"><div class=\"wx-metric-label\">💧 Kelembapan</div><div class=\"wx-metric-value\">73%</div></div><div class=\"wx-metric wx-m-wind\"><div class=\"wx-metric-label\">💨 Kecepatan angin</div><div class=\"wx-metric-value\">3.6 km/jam · NE</div></div><div class=\"wx-metric wx-m-rain\"><div class=\"wx-metric-label\">🌦️ Prediksi cuaca</div><div class=\"wx-metric-value\">Tidak ada indikasi hujan</div></div></div><div class=\"wx-foot\"><span>🕐 28 Okt 2026, 09:00 WIB</span><span>Diperbarui: 27 Oktober 2026, 12:00 UTC</span><a href=\"https://www.bmkg.go.id\" target=\"_blank\">🔗 Sumber: BMKG</a></div></div>"
+      },
+      {
+        "role": "user",
+        "content": "Bandingkan cuaca Bandung, Surabaya, Depok"
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut cuaca untuk 3 daerah yang kamu tanyakan:\n\n\n---\n\n<div class=\"wx-card\"><div class=\"wx-hero wx-sunny\"><div><div class=\"wx-loc\">📍 Kota Bandung (Sukarasa)</div><div class=\"wx-cond\">Cerah</div></div><div class=\"wx-temp\">☀️ 23°C</div></div><div class=\"wx-grid\"><div class=\"wx-metric wx-m-hum\"><div class=\"wx-metric-label\">💧 Kelembapan</div><div class=\"wx-metric-value\">80%</div></div><div class=\"wx-metric wx-m-wind\"><div class=\"wx-metric-label\">💨 Kecepatan angin</div><div class=\"wx-metric-value\">2.8 km/jam · E</div></div><div class=\"wx-metric wx-m-rain\"><div class=\"wx-metric-label\">🌦️ Prediksi cuaca</div><div class=\"wx-metric-value\">Tidak ada indikasi hujan</div></div></div><div class=\"wx-foot\"><span>🕐 28 Okt 2026, 08:00 WIB</span><span>Diperbarui: 27 Oktober 2026, 12:00 UTC</span><a href=\"https://www.bmkg.go.id\" target=\"_blank\">🔗 Sumber: BMKG</a></div></div>\n\n---\n\n<div class=\"wx-card\"><div class=\"wx-hero wx-cloudy\"><div><div class=\"wx-loc\">📍 Kota Surabaya (Karang Pilang)</div><div class=\"wx-cond\">Berawan</div></div><div class=\"wx-temp\">⛅ 29°C</div></div><div class=\"wx-grid\"><div class=\"wx-metric wx-m-hum\"><div class=\"wx-metric-label\">💧 Kelembapan</div><div class=\"wx-metric-value\">68%</div></div><div class=\"wx-metric wx-m-wind\"><div class=\"wx-metric-label\">💨 Kecepatan angin</div><div class=\"wx-metric-value\">2 km/jam · SW</div></div><div class=\"wx-metric wx-m-rain\"><div class=\"wx-metric-label\">🌦️ Prediksi cuaca</div><div class=\"wx-metric-value\">Tidak ada indikasi hujan</div></div></div><div class=\"wx-foot\"><span>🕐 28 Okt 2026, 08:00 WIB</span><span>Diperbarui: 27 Oktober 2026, 12:00 UTC</span><a href=\"https://www.bmkg.go.id\" target=\"_blank\">🔗 Sumber: BMKG</a></div></div>\n\n---\n\n<div class=\"wx-card\"><div class=\"wx-hero wx-cloudy\"><div><div class=\"wx-loc\">📍 Kota Depok (Depok)</div><div class=\"wx-cond\">Berawan</div></div><div class=\"wx-temp\">⛅ 25°C</div></div><div class=\"wx-grid\"><div class=\"wx-metric wx-m-hum\"><div class=\"wx-metric-label\">💧 Kelembapan</div><div class=\"wx-metric-value\">89%</div></div><div class=\"wx-metric wx-m-wind\"><div class=\"wx-metric-label\">💨 Kecepatan angin</div><div class=\"wx-metric-value\">2.2 km/jam · W</div></div><div class=\"wx-metric wx-m-rain\"><div class=\"wx-metric-label\">🌦️ Prediksi cuaca</div><div class=\"wx-metric-value\">Tidak ada indikasi hujan</div></div></div><div class=\"wx-foot\"><span>🕐 28 Okt 2026, 08:00 WIB</span><span>Diperbarui: 27 Oktober 2026, 12:00 UTC</span><a href=\"https://www.bmkg.go.id\" target=\"_blank\">🔗 Sumber: BMKG</a></div></div>"
+      },
+      {
+        "role": "user",
+        "content": "cuaca palangkaraya hari ini"
+      },
+      {
+        "role": "assistant",
+        "content": "<p class=\"wx-intro\">Wah, sepertinya cuaca di Palangkaraya hari ini lagi agak berkabut dan ada potensi hujan juga, nih.</p><div class=\"wx-card\"><div class=\"wx-hero wx-cloudy\"><div><div class=\"wx-loc\">📍 Kota Palangkaraya (Pahandut)</div><div class=\"wx-cond\">Udara Kabur</div></div><div class=\"wx-temp\">🌫️ 28°C</div></div><div class=\"wx-grid\"><div class=\"wx-metric wx-m-hum\"><div class=\"wx-metric-label\">💧 Kelembapan</div><div class=\"wx-metric-value\">79%</div></div><div class=\"wx-metric wx-m-wind\"><div class=\"wx-metric-label\">💨 Kecepatan angin</div><div class=\"wx-metric-value\">1.2 km/jam · SE</div></div><div class=\"wx-metric wx-m-rain\"><div class=\"wx-metric-label\">🌦️ Prediksi cuaca</div><div class=\"wx-metric-value\">Ada kemungkinan hujan</div></div></div><div class=\"wx-foot\"><span>🕐 28 Okt 2026, 08:00 WIB</span><span>Diperbarui: 27 Oktober 2026, 12:00 UTC</span><a href=\"https://www.bmkg.go.id\" target=\"_blank\">🔗 Sumber: BMKG</a></div></div>"
+      }
+    ]
+  },
+  {
+    "id": "a3e54562-e1bc-4a5c-9a67-defdce745f94",
+    "judul": "Cuaca hari ini di Jaksel",
+    "dibuat_pada": "2026-10-28T09:05:19",
+    "last_location": "Kota Banjarbaru (Landasan Ulin Timur)",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Cuaca hari ini di Jaksel"
+      },
+      {
+        "role": "assistant",
+        "content": "<p class=\"wx-intro\">Wah, di daerah Jaksel lagi kelihatan agak mendung dan berawan nih pagi ini.</p><div class=\"wx-card\"><div class=\"wx-hero wx-cloudy\"><div><div class=\"wx-loc\">📍 Jakarta Selatan (Pejaten Barat)</div><div class=\"wx-cond\">Berawan</div></div><div class=\"wx-temp\">⛅ 26°C</div></div><div class=\"wx-grid\"><div class=\"wx-metric wx-m-hum\"><div class=\"wx-metric-label\">💧 Kelembapan</div><div class=\"wx-metric-value\">85%</div></div><div class=\"wx-metric wx-m-wind\"><div class=\"wx-metric-label\">💨 Kecepatan angin</div><div class=\"wx-metric-value\">2.7 km/jam · NW</div></div><div class=\"wx-metric wx-m-rain\"><div class=\"wx-metric-label\">🌦️ Prediksi cuaca</div><div class=\"wx-metric-value\">Tidak ada indikasi hujan</div></div></div><div class=\"wx-foot\"><span>🕐 28 Okt 2026, 08:00 WIB</span><span>Diperbarui: 27 Oktober 2026, 12:00 UTC</span><a href=\"https://www.bmkg.go.id\" target=\"_blank\">🔗 Sumber: BMKG</a></div></div>"
+      },
+      {
+        "role": "user",
+        "content": "siapa jodohku nanti"
+      },
+      {
+        "role": "assistant",
+        "content": "Saya adalah chatbot khusus informasi cuaca. Silakan tanyakan kondisi atau prakiraan cuaca suatu daerah. 🌤️"
+      },
+      {
+        "role": "user",
+        "content": "hari ini hujan ga di banjarbaru"
+      },
+      {
+        "role": "assistant",
+        "content": "<p class=\"wx-intro\">Wah, kayaknya aman deh, di Banjarbaru hari ini nggak ada tanda-tanda bakal hujan kok.</p><div class=\"wx-card\"><div class=\"wx-hero wx-cloudy\"><div><div class=\"wx-loc\">📍 Kota Banjarbaru (Landasan Ulin Timur)</div><div class=\"wx-cond\">Udara Kabur</div></div><div class=\"wx-temp\">🌫️ 29°C</div></div><div class=\"wx-grid\"><div class=\"wx-metric wx-m-hum\"><div class=\"wx-metric-label\">💧 Kelembapan</div><div class=\"wx-metric-value\">73%</div></div><div class=\"wx-metric wx-m-wind\"><div class=\"wx-metric-label\">💨 Kecepatan angin</div><div class=\"wx-metric-value\">3.6 km/jam · NE</div></div><div class=\"wx-metric wx-m-rain\"><div class=\"wx-metric-label\">🌦️ Prediksi cuaca</div><div class=\"wx-metric-value\">Tidak ada indikasi hujan</div></div></div><div class=\"wx-foot\"><span>🕐 28 Okt 2026, 09:00 WIB</span><span>Diperbarui: 27 Oktober 2026, 12:00 UTC</span><a href=\"https://www.bmkg.go.id\" target=\"_blank\">🔗 Sumber: BMKG</a></div></div>"
+      },
+      {
+        "role": "user",
+        "content": "Cuaca di Jaksel dan Kalsel hari ini"
+      },
+      {
+        "role": "assistant",
+        "content": "Ada beberapa daerah yang cocok dengan **Kalimantan Selatan**. Maksud kamu yang mana?\n\n- Kab. Balangan\n- Kab. Banjar\n- Kab. Barito Kuala\n- Kab. Hulu Sungai Selatan\n- Kab. Hulu Sungai Tengah\n- Kab. Hulu Sungai Utara\n- Kab. Kotabaru\n- Kab. Tabalong\n- Kab. Tanah Bumbu\n- Kab. Tanah Laut\n- Kab. Tapin\n- Kota Banjarbaru\n- Kota Banjarmasin"
+      },
+      {
+        "role": "user",
+        "content": "banjarbaru"
+      },
+      {
+        "role": "assistant",
+        "content": "Berikut cuaca untuk 2 daerah yang kamu tanyakan:\n\n\n---\n\n<div class=\"wx-card\"><div class=\"wx-hero wx-cloudy\"><div><div class=\"wx-loc\">📍 Jakarta Selatan (Pejaten Barat)</div><div class=\"wx-cond\">Berawan</div></div><div class=\"wx-temp\">⛅ 26°C</div></div><div class=\"wx-grid\"><div class=\"wx-metric wx-m-hum\"><div class=\"wx-metric-label\">💧 Kelembapan</div><div class=\"wx-metric-value\">85%</div></div><div class=\"wx-metric wx-m-wind\"><div class=\"wx-metric-label\">💨 Kecepatan angin</div><div class=\"wx-metric-value\">2.7 km/jam · NW</div></div><div class=\"wx-metric wx-m-rain\"><div class=\"wx-metric-label\">🌦️ Prediksi cuaca</div><div class=\"wx-metric-value\">Tidak ada indikasi hujan</div></div></div><div class=\"wx-foot\"><span>🕐 28 Okt 2026, 08:00 WIB</span><span>Diperbarui: 27 Oktober 2026, 12:00 UTC</span><a href=\"https://www.bmkg.go.id\" target=\"_blank\">🔗 Sumber: BMKG</a></div></div>\n\n---\n\n<div class=\"wx-card\"><div class=\"wx-hero wx-cloudy\"><div><div class=\"wx-loc\">📍 Kota Banjarbaru (Landasan Ulin Timur)</div><div class=\"wx-cond\">Udara Kabur</div></div><div class=\"wx-temp\">🌫️ 29°C</div></div><div class=\"wx-grid\"><div class=\"wx-metric wx-m-hum\"><div class=\"wx-metric-label\">💧 Kelembapan</div><div class=\"wx-metric-value\">73%</div></div><div class=\"wx-metric wx-m-wind\"><div class=\"wx-metric-label\">💨 Kecepatan angin</div><div class=\"wx-metric-value\">3.6 km/jam · NE</div></div><div class=\"wx-metric wx-m-rain\"><div class=\"wx-metric-label\">🌦️ Prediksi cuaca</div><div class=\"wx-metric-value\">Tidak ada indikasi hujan</div></div></div><div class=\"wx-foot\"><span>🕐 28 Okt 2026, 09:00 WIB</span><span>Diperbarui: 27 Oktober 2026, 12:00 UTC</span><a href=\"https://www.bmkg.go.id\" target=\"_blank\">🔗 Sumber: BMKG</a></div></div>"
+      }
+    ]
+  },
+  {
+    "id": "19b2d243-68b9-4f1f-8191-edef9490f609",
+    "judul": "Cuaca hari ini di Jaksel",
+    "dibuat_pada": "2026-11-22T17:54:23",
+    "last_location": null,
+    "messages": [
+      {
+        "role": "user",
+        "content": "Cuaca hari ini di Jaksel"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ AI sedang bermasalah: Gagal menghubungi AI API setelah 1x percobaan: Error code: 401 - {&#x27;error&#x27;: {&#x27;message&#x27;: &#x27;Authentication Error - Expired Key. Key Expiry time 2026-11-01 09:13:27.458000+00:00 and current time 2026-11-22 09:54:35.938036+00:00&#x27;, &#x27;type&#x27;: &#x27;expired_key&#x27;, &#x27;param&#x27;: &#x27;sk-...bdc4&#x27;, &#x27;code&#x27;: &#x27;401&#x27;}}"
+      }
+    ]
+  }
+]
