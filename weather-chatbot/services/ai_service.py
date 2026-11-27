@@ -51,7 +51,6 @@ def _call_ai(system_prompt: str, user_message: str, max_tokens: int, temperature
                 ],
                 max_tokens=max_tokens,
                 temperature=temperature,
-                extra_body={"enable_thinking": False},
             )
             return _get_content_safely(response)
 
